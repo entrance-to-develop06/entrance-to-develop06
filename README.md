@@ -57,7 +57,6 @@
 [![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=SpringBootRest&theme=nord)](https://github.com/entrance-to-develop06/SpringBootRest)
 [![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=HttpsFrontWinForms&theme=nord)](https://github.com/entrance-to-develop06/HttpsFrontWinForms)
 [![Repo6](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=HttpsFrontSwing&theme=nord)](https://github.com/entrance-to-develop06/HttpsFrontSwing)
-[![Repo7](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=SpringBootWebServer&theme=nord)](https://github.com/entrance-to-develop06/SpringBootWebServer)
 [![Repo8](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=SpBootRestPostgres&theme=nord)](https://github.com/entrance-to-develop06/SpBootRestPostgres)
 [![Repo9](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=AspNetCoreRestSqlSvr&theme=nord)](https://github.com/entrance-to-develop06/AspNetCoreRestSqlSvr)
 [![Repo9](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=EchoServer&theme=nord)](https://github.com/entrance-to-develop06/EchoServer)
