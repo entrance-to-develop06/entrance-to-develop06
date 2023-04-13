@@ -52,16 +52,6 @@
 
 ## :stars:リポジトリ(:arrow_down:プログラムソース確認はこちら:arrow_down:)  
 [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=ShohinDesktopAdoNet&theme=nord)](https://github.com/entrance-to-develop06/ShohinDesktopAdoNet)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=ShohinDesktopJdbc&theme=nord)](https://github.com/entrance-to-develop06/ShohinDesktopJdbc)
-[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=SpringBootMvc&theme=nord)](https://github.com/entrance-to-develop06/SpringBootMvc)
-[![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=SpringBootRest&theme=nord)](https://github.com/entrance-to-develop06/SpringBootRest)
-[![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=HttpsFrontWinForms&theme=nord)](https://github.com/entrance-to-develop06/HttpsFrontWinForms)
-[![Repo6](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=HttpsFrontSwing&theme=nord)](https://github.com/entrance-to-develop06/HttpsFrontSwing)
-[![Repo8](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=SpBootRestPostgres&theme=nord)](https://github.com/entrance-to-develop06/SpBootRestPostgres)
-[![Repo9](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=AspNetCoreRestSqlSvr&theme=nord)](https://github.com/entrance-to-develop06/AspNetCoreRestSqlSvr)
-[![Repo9](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=EchoServer&theme=nord)](https://github.com/entrance-to-develop06/EchoServer)
-[![Repo11](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=electric&theme=nord)](https://github.com/entrance-to-develop06/electric)
-[![Repo12](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=EntityDesktopSqlSvr&theme=nord)](https://github.com/entrance-to-develop06/EntityDesktopSqlSvr)
 
 ***
 
