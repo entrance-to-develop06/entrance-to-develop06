@@ -52,6 +52,12 @@
 
 ## :stars:リポジトリ(:arrow_down:プログラムソース確認はこちら:arrow_down:)  
 [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=ShohinDesktopAdoNet&theme=nord)](https://github.com/entrance-to-develop06/ShohinDesktopAdoNet)
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=ShohinDesktopJdbc&theme=nord)](https://github.com/entrance-to-develop06/ShohinDesktopJdbc)
+[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=HttpsFrontWinForms&theme=nord)](https://github.com/entrance-to-develop06/HttpsFrontWinForms)
+[![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=HttpsFrontSwing&theme=nord)](https://github.com/entrance-to-develop06/HttpsFrontSwing)
+[![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=SpringBootMvc&theme=nord)](https://github.com/entrance-to-develop06/SpringBootMvc)
+[![Repo6](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=SpringBootRest&theme=nord)](https://github.com/entrance-to-develop06/SpringBootRest)
+[![Repo7](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=Electric&theme=nord)](https://github.com/entrance-to-develop06/Electric)
 
 ***
 
