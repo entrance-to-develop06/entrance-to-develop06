@@ -57,7 +57,8 @@
 [![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=HttpsFrontSwing&theme=nord)](https://github.com/entrance-to-develop06/HttpsFrontSwing)
 [![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=SpringBootMvc&theme=nord)](https://github.com/entrance-to-develop06/SpringBootMvc)
 [![Repo6](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=SpringBootRest&theme=nord)](https://github.com/entrance-to-develop06/SpringBootRest)
-[![Repo7](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=Electric&theme=nord)](https://github.com/entrance-to-develop06/Electric)
+[![Repo7](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=EchoServer&theme=nord)](https://github.com/entrance-to-develop06/EchoServer)
+[![Repo8](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=Electric&theme=nord)](https://github.com/entrance-to-develop06/Electric)
 
 ***
 
@@ -66,11 +67,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=entrance-to-develop06&theme=nord&column=7)](https://github.com/entrance-to-develop06/github-profile-trophy)
 
 ### [:chart_with_upwards_trend: Github Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![](https://raw.githubusercontent.com/entrance-to-develop06/entrance-to-develop06/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/entrance-to-develop06/entrance-to-develop06/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/entrance-to-develop06/entrance-to-develop06/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/entrance-to-develop06/entrance-to-develop06/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/entrance-to-develop06/entrance-to-develop06/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=entrance-to-develop06&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=entrance-to-develop06&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=entrance-to-develop06&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=entrance-to-develop06&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=entrance-to-develop06&theme=nord_dark&utcOffset=9)
 
 ### [:chart_with_upwards_trend: Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entrance-to-develop06&theme=nord)
