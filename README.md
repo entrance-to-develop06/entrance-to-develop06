@@ -59,6 +59,7 @@
 [![Repo6](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=SpringBootRest&theme=nord)](https://github.com/entrance-to-develop06/SpringBootRest)
 [![Repo7](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=AspNetCoreMvcSqlSvr&theme=nord)](https://github.com/entrance-to-develop06/AspNetCoreMvcSqlSvr)
 [![Repo8](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=EchoServer&theme=nord)](https://github.com/entrance-to-develop06/EchoServer)
+[![Repo9](https://github-readme-stats.vercel.app/api/pin/?username=entrance-to-develop06&repo=Electric&theme=nord)](https://github.com/entrance-to-develop06/Electric)
 
 ***
 
